@@ -19,21 +19,21 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TurboCDN                          # the main title
+title: nitdgp1                         # the main title
 
 tagline: Technical blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  TurboCDN - technical blog for presenting professional writing.
+  nitdgp1.github.io - technical blog for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://turbocdn.github.io'
+url: 'https://nitdgp1.github.io'
 
 github:
-  username: turbocdn            # change to your github username
+  username: nitdgp1            # change to your github username
 
 twitter:
-  username: turbocdn            # change to your twitter username
+  username: nitdgp1.github.io            # change to your twitter username
 
 social:
   # Change to your full name.
